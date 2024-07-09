@@ -1,0 +1,14 @@
+.links a{
+    color: #a1a1a1;
+}
+
+.select .css-13cymwt-control{
+    border-radius: 25px;
+    padding: 3px 3px;
+    border: 0;
+    font-size: 13px;
+}
+
+.css-13cymwt-control:hover{
+ border-radius: 25px;
+}

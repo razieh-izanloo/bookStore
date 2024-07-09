@@ -1,0 +1,5 @@
+.banner{
+    background-image: url("/public/banner-home.webp");
+    background-repeat: no-repeat;
+    min-height: 400px;
+}

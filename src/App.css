@@ -1,0 +1,16 @@
+html{
+  direction: rtl;
+}
+body {
+  font-family: 'IRANSansX' !important;
+}
+
+body p {
+  color: #a1a1a1;
+}
+.text-primary-100{
+  color: #758bfd;
+}
+.bg-primary-100{
+  background-color: #758bfd;
+}
